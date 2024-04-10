@@ -1,4 +1,4 @@
-# SC1015 Group 3 Mini-Project
+# SC1015 Group 5 Mini-Project
 
 ## Description
 
