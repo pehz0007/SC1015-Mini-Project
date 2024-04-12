@@ -1,7 +1,13 @@
 # SC1015 Group 5 Mini-Project
 
 ## Description
+The emergence of digital marketplaces has greatly changed consumer behaviour where review rank as essential in
+the considerations of buying a new product. Consequently, there is a new type of deception invented - fake user reviews, 
+which are created to artificially boost the ratings of certain products. Such deceptive practices negatively affect the 
+credibility of the platform and reduces user engagement and revenue. 
 
+This project aims to provide detailed analysis insights and fake reviews detection capabilities
+using neural networks namely Deep Neural Network, LSTM & BERT.
 
 
 ## Table of Contents
