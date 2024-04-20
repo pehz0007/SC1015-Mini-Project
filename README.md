@@ -42,3 +42,15 @@ Run Jupyter Lab
 ```bash
 jupyter lab
 ```
+
+## References
+| Link |
+|------|
+|https://colab.research.google.com/drive/1934Mm2cwSSfT5bvi78-AExAl-hSfxCbq#scrollTo=bMc4jf0jYxxE|
+|https://arxiv.org/abs/1706.03762|
+|https://github.com/jessevig/bertviz|
+|https://huggingface.co/google-bert/bert-base-uncased|
+|https://botpenguin.com/glossary/stemming|
+|https://www.geeksforgeeks.org/removing-stop-words-nltk-python/|
+
+
