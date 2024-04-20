@@ -12,3 +12,4 @@ tensorflow==2.16.1
 transformers==4.39.3
 wordcloud==1.9.3
 smart_open==1.9.0
+bertviz==1.4.0
