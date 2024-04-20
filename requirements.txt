@@ -1,0 +1,15 @@
+gensim==4.3.2
+keras==3.1.1
+matplotlib==3.8.3
+nltk==3.8.1
+numpy==1.26.4
+pandarallel==1.6.5
+pandas==2.2.1
+scikit-learn==1.4.2
+scipy==1.12.0
+seaborn==0.13.2
+tensorflow==2.16.1
+transformers==4.39.3
+wordcloud==1.9.3
+smart_open==1.9.0
+bertviz==1.4.0
