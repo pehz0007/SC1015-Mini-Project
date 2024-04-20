@@ -1,5 +1,7 @@
 # SC1015 Group 5 Mini-Project
 
+Members: Peh Zi Heng, Lee Hsien Xiang, Lee Yong Arn
+
 ## Description
 The emergence of digital marketplaces has greatly changed consumer behaviour where review rank as essential in
 the considerations of buying a new product. Consequently, there is a new type of deception invented - fake user reviews, 
