@@ -30,6 +30,7 @@ using neural networks namely Deep Neural Network, LSTM & BERT.
 | Analysis of data + Training DNN and LSTM.ipynb | Jupyter notebook that contains our analysis of the fake reviews dataset, including data preprocessing, exploratory data analysis, and the development of Deep Neural Network (DNN) and Long Short-Term Memory (LSTM) models for classifying reviews. |
 | Training BERT.ipynb                            | Jupyter notebook focused on the implementation of a BERT (Bidirectional Encoder Representations from Transformers) model for the task of fake review classification. This notebook covers the setup, training, and evaluation of the BERT model.     |
 | BERT Attention Visualisation.ipynb             | Jupyter notebook that visualise the attention scores of a BERT (Bidirectional Encoder Representations from Transformers) model.                                                                                                                      |
+| SC1015_FCSB_Team5_slides.pdf                   | Presentation slides                                                                                                                                                                                                                                  |
 
 ## Getting Started
 
